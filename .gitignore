@@ -1,0 +1,21 @@
+# Dart & Flutter build outputs
+/build/
+/.dart_tool/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.packages
+/.metadata
+
+# IDE folders
+.idea/
+.vscode/
+
+# Android
+**/android/*.iml
+**/android/.gradle/
+**/android/local.properties
+
+# Xcode
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework

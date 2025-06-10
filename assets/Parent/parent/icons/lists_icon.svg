@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 40">
+  <!-- Three horizontal lines representing the hamburger menu -->
+  <rect width="40" height="5" x="5" y="7.5" rx="2.5" fill="#000000"/>
+  <rect width="40" height="5" x="5" y="17.5" rx="2.5" fill="#000000"/>
+  <rect width="40" height="5" x="5" y="27.5" rx="2.5" fill="#000000"/>
+</svg>

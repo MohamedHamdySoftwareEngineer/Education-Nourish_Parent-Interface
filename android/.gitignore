@@ -1,0 +1,29 @@
+# Flutter & Android generated files
+.gradle/
+gradle-wrapper.jar
+captures/
+gradlew
+gradlew.bat
+local.properties
+GeneratedPluginRegistrant.java
+
+# Keystore (never commit these)
+key.properties
+**/*.keystore
+**/*.jks
+
+# Build outputs & tool directories
+build/
+.android/
+.dart_tool/
+.packages
+
+# IDE configs
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# C++ build artifacts (ignore your .cxx folder)
+android/app/.cxx/
