@@ -1,7 +1,5 @@
 import 'package:edunourish/core/utils/app_router.dart';
-import 'package:edunourish/core/utils/assets.dart';
 import 'package:edunourish/core/utils/constants.dart';
-import 'package:edunourish/core/utils/styles.dart';
 import 'package:edunourish/core/widgets/base_scaffold.dart';
 import 'package:edunourish/core/widgets/container_tile.dart';
 import 'package:edunourish/features/Attendence%20Screen/presentation/views/attendence_screen.dart';
@@ -9,8 +7,6 @@ import 'package:edunourish/features/Classes/presentation/views/classes_screen.da
 import 'package:edunourish/features/Exam/presentation/views/exam_screen.dart';
 import 'package:edunourish/features/Parent%20Profile/presentation/views/parent_profile.dart';
 import 'package:edunourish/features/Restaurant%20Screen/presentation/views/restaurant_screen.dart';
-import 'package:edunourish/features/Settings%20Screen/presentation/views/settings_screen.dart';
-import 'package:edunourish/features/Teacher%20Screen/presentation/views/teacher_screen.dart';
 import 'package:flutter/material.dart';
 
 class ListScreenBody extends StatelessWidget {

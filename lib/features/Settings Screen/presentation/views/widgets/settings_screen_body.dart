@@ -1,7 +1,6 @@
 import 'package:edunourish/core/utils/constants.dart';
 import 'package:edunourish/core/widgets/base_scaffold.dart';
 import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 
 /// Main body for the Settings tab
 class SettingsScreenBody extends StatelessWidget {

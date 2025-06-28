@@ -1,12 +1,10 @@
 
 import 'package:edunourish/core/utils/assets.dart';
-import 'package:edunourish/core/utils/constants.dart';
 import 'package:edunourish/core/widgets/base_scaffold.dart';
 import 'package:edunourish/features/Teacher%20Screen/data/models/teacher_model.dart';
 
 import 'package:flutter/material.dart';
 
-import '../../../../../core/utils/styles.dart';
 
 class TeacherScreenBody extends StatelessWidget {
   final List<TeacherData> teachers;
