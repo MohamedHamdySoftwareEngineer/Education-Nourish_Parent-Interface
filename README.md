@@ -91,13 +91,15 @@ flutter run
 
 
 ## 📱 UI
-> ![App Screenshot](assets/ParentImages/Attendance.png)
 > ![App Screenshot](assets/ParentImages/HomeScreen.png)
-> ![App Screenshot](assets/ParentImages/Map.png)
-> ![App Screenshot](assets/ParentImages/Payment.png)
-> ![App Screenshot](assets/ParentImages/Restaurant_Details.png)
-> ![App Screenshot](assets/ParentImages/Restaurant.png)
 > ![App Screenshot](assets/ParentImages/StudentScreen.png)
+> ![App Screenshot](assets/ParentImages/Payment.png)
+> ![App Screenshot](assets/ParentImages/Notifications.png)
+> ![App Screenshot](assets/ParentImages/Map.png)
+> ![App Screenshot](assets/ParentImages/Restaurant.png)
+> ![App Screenshot](assets/ParentImages/Restaurant_Details.png)
+> ![App Screenshot](assets/ParentImages/Attendance.png)
+
 
 
 
