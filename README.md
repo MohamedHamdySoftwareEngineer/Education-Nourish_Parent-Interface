@@ -66,6 +66,17 @@ EduNourish is a graduation project that combines educational management with stu
 | **Maps & Location** | Flutter Map |
 | **Navigation** | Smart Nav Bar |
 
+
+## 🏗️ Architecture
+
+The app follows **MVVM (Model-View-ViewModel)** architecture pattern with **Cubit** for state management, ensuring:
+- **Separation of Concerns** - Clean code organization and maintainability
+- **Reactive Programming** - Efficient state management and UI updates
+- **Scalability** - Easy feature additions and modifications
+- **Testability** - Comprehensive unit and widget testing capabilities
+
+> ![App Structure](assets/images/Hirarchy.png)
+
 ## 🚀 Getting Started
 
 
@@ -86,9 +97,6 @@ flutter pub get
 ```bash
 flutter run
 ```
-## 📁 File Structure
-> ![App Structure](assets/images/Hirarchy.png)
-
 
 ## 📱 UI
 > ![App Screenshot](assets/ParentImages/HomeScreen.png)
