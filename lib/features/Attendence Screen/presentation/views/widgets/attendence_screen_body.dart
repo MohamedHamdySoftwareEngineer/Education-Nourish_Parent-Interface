@@ -1,8 +1,8 @@
 // attendance_screen_body.dart
 import 'package:edunourish/core/utils/constants.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 
+import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../../../../core/widgets/base_scaffold.dart';
 import '../../../data/models/attendence_model.dart';
 import '../../manager/attendance_bloc.dart';
