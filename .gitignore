@@ -9,6 +9,8 @@
 # IDE folders
 .idea/
 .vscode/
+README.md
+
 
 # Android
 **/android/*.iml
