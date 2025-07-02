@@ -98,15 +98,59 @@ flutter pub get
 flutter run
 ```
 
-## 📱 UI
-> ![App Screenshot](assets/ParentImages/HomeScreen.png)
-> ![App Screenshot](assets/ParentImages/StudentScreen.png)
-> ![App Screenshot](assets/ParentImages/Payment.png)
-> ![App Screenshot](assets/ParentImages/Notifications.png)
-> ![App Screenshot](assets/ParentImages/Map.png)
-> ![App Screenshot](assets/ParentImages/Restaurant.png)
-> ![App Screenshot](assets/ParentImages/Restaurant_Details.png)
-> ![App Screenshot](assets/ParentImages/Attendance.png)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/ParentImages/HomeScreen.png" width="300" alt="Home Screen"/>
+        <br/>
+        <sub><b>Home Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="assets/ParentImages/StudentScreen.png" width="300" alt="Student Screen"/>
+        <br/>
+        <sub><b>Student Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="assets/ParentImages/Payment.png" width="200" alt="Payment"/>
+        <br/>
+        <sub><b>Payment</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/ParentImages/Notifications.png" width="300" alt="Notifications"/>
+        <br/>
+        <sub><b>Notifications</b></sub>
+      </td>
+      <td align="center">
+        <img src="assets/ParentImages/Map.png" width="300" alt="Map"/>
+        <br/>
+        <sub><b>Map View</b></sub>
+      </td>
+      <td align="center">
+        <img src="assets/ParentImages/Restaurant.png" width="300" alt="Restaurant"/>
+        <br/>
+        <sub><b>Restaurant</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/ParentImages/Restaurant_Details.png" width="300" alt="Restaurant Details"/>
+        <br/>
+        <sub><b>Restaurant Details</b></sub>
+      </td>
+      <td align="center">
+        <img src="assets/ParentImages/Attendance.png" width="300" alt="Attendance"/>
+        <br/>
+        <sub><b>Attendance</b></sub>
+      </td>
+      <td align="center">
+        <!-- Empty cell for symmetry -->
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
