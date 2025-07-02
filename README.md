@@ -107,41 +107,41 @@ flutter run
         <sub><b>Home Screen</b></sub>
       </td>
       <td align="center">
-        <img src="assets/ParentImages/StudentScreen.png" width="400" alt="Student Screen"/>
+        <img src="assets/ParentImages/StudentScreen.png" width="450" alt="Student Screen"/>
         <br/>
         <sub><b>Student Screen</b></sub>
       </td>
       <td align="center">
-        <img src="assets/ParentImages/Payment.png" width="250" alt="Payment"/>
+        <img src="assets/ParentImages/Payment.png" width="150" alt="Payment"/>
         <br/>
         <sub><b>Payment</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/ParentImages/Notifications.png" width="400" alt="Notifications"/>
+        <img src="assets/ParentImages/Notifications.png" width="450" alt="Notifications"/>
         <br/>
         <sub><b>Notifications</b></sub>
       </td>
       <td align="center">
-        <img src="assets/ParentImages/Map.png" width="400" alt="Map"/>
+        <img src="assets/ParentImages/Map.png" width="450" alt="Map"/>
         <br/>
         <sub><b>Map View</b></sub>
       </td>
       <td align="center">
-        <img src="assets/ParentImages/Restaurant.png" width="400" alt="Restaurant"/>
+        <img src="assets/ParentImages/Restaurant.png" width="450" alt="Restaurant"/>
         <br/>
         <sub><b>Restaurant</b></sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/ParentImages/Restaurant_Details.png" width="400" alt="Restaurant Details"/>
+        <img src="assets/ParentImages/Restaurant_Details.png" width="450" alt="Restaurant Details"/>
         <br/>
         <sub><b>Restaurant Details</b></sub>
       </td>
       <td align="center">
-        <img src="assets/ParentImages/Attendance.png" width="400" alt="Attendance"/>
+        <img src="assets/ParentImages/Attendance.png" width="450" alt="Attendance"/>
         <br/>
         <sub><b>Attendance</b></sub>
       </td>
