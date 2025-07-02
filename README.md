@@ -112,7 +112,7 @@ flutter run
         <sub><b>Student Screen</b></sub>
       </td>
       <td align="center">
-        <img src="assets/ParentImages/Payment.png" width="150" alt="Payment"/>
+        <img src="assets/ParentImages/Payment.png" width="200" alt="Payment"/>
         <br/>
         <sub><b>Payment</b></sub>
       </td>
